@@ -1,0 +1,4 @@
+
+Settings = {
+    'base_path' : ''
+}
